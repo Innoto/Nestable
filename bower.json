@@ -21,5 +21,12 @@
   "license": "MIT",
   "dependencies": {
     "jquery": ">= 1.7.2"
-  }
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
