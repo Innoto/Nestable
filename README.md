@@ -1,7 +1,8 @@
 Nestable
 ========
 
-## We are writing a new readme! Till now, please continue read the source ;)
+## This repository is a copy of a repository deleted - ( ramonsmit / Nestable2 )
+### We cannot provide any support
 
 ## PLEASE NOTE
 
@@ -162,6 +163,10 @@ These advanced config options are also available:
 **Inspect the [Nestable Demo](http://ramonsmit.github.io/Nestable/) for guidance.**
 
 ## Change Log
+
+### 16th September 2015
+
+* [Innoto] Fork of disappeared repository
 
 ### 6th October 2014
 
