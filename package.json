@@ -1,0 +1,17 @@
+{
+  "name": "nestable2-old",
+  "version": "1.2.3",
+  "description": "Drag & drop hierarchical list with mouse and touch compatibility",
+  "main": [ "jquery.nestable.js", "jquery.nestable.css" ],
+  "homepage": "https://github.com/Innoto/Nestable",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Innoto/Nestable.git"
+  },
+  "authors": [ "Innoto", "Ramon Smit <@_RamonSmit>", "David Bushell <@dbushell>" ],
+  "license": "MIT",
+  "keywords": [ "jquery", "tree", "list", "sortable", "nestable", "drag", "drop" ],
+  "dependencies": {
+    "jquery": ">= 1.7.2"
+  }
+}
